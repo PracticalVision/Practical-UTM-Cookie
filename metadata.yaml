@@ -1,6 +1,6 @@
 homepage: "https://practicalvision.com"
 documentation: "https://practicalvision.com/gtm-templates/practical-utm-cookie/"
 versions:
-  - sha: SHA_PLACEHOLDER
+  - sha: 371f279348b165256e04f324c6c8264b354ece5c
     changeNotes: Initial release.
 
